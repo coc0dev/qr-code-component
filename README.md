@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qrcodecomponent-CiAY1cIvq7)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qrcodecomponent-CiAY1cIvq7)
 - Live Site URL: [Netlify](https://eloquent-empanada-e5263e.netlify.app/)
 
 ## My process
@@ -28,7 +28,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
 
 ## Author
 
